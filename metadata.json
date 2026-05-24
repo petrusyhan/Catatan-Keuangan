@@ -1,0 +1,6 @@
+{
+  "name": "SakuPintar",
+  "description": "Aplikasi pengelola keuangan pribadi pintar dengan fitur pencatatan otomatis berbasis teks/SMS menggunakan Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
